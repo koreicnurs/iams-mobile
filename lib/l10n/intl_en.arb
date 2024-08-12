@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "kyrgyzstan_header": "112 Kyrgyzstan",
+    "language": "English",
+    "main": "Main",
+    "emergency": "Report an emergency",
+    "notification": "Urgent notifications",
+    "news": "News",
+    "map_covid": "COVID-19 map",
+    "map_storm": "Map of storm warnings",
+    "first_aid": "First aid instruction",
+    "emergency_rules": "Rules of conduct in emergency situations",
+    "radiation": "Radiation security",
+    "about": "About application",
+    "settings": "Settings"
+}
